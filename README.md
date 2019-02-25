@@ -1,2 +1,0 @@
-# workspace
-workspace for react
